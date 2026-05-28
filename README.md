@@ -7,3 +7,4 @@
 - Pytest-cov
 - Poetry build
 - GitHub Actions
+CI test
